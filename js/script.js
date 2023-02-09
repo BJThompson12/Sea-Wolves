@@ -103,4 +103,12 @@ function timeOver(initialTime){
   secondsEl.value = initialTime
 }
 
-// let secondsInput
+// Local Storage
+// local storage
+// function hiScorePage(event) {
+//   event.preventDefault();}
+//   // must take in and identify the user input data
+//   // var initialsEl = document.getElementById('high-score-input').value.trim();
+//   // if (initialsEl !== '') {
+//   //   let modalCloseArray =
+//   //     JSON.parse(window.localStorage.getItem('modalClosed')) || [];
